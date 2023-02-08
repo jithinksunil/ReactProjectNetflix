@@ -24,4 +24,8 @@
 .smallPoster{
     max-height: 100px;
     margin-right: 10px;
+
+}
+.smallPoster:hover{
+    transform: scale(1.08);
 }
